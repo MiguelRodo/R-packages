@@ -1,0 +1,28 @@
+---
+title: "ACS CyTOF T cell correlates"
+author: "Miguel Rodo"
+date: "05 May 2022"
+output:
+  beamer_presentation:
+      slide_level: 1
+classoption: "aspectratio=169"
+bibliography: zotero.bib
+urlcolor: red
+---
+
+```{r , include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+here::i_am("2022 05 03, Miguel Rodo, Biostats tutorial - R packages.rmd")
+```
+  
+# Introduction to R packages
+
+# Why build R packages?
+
+- Reuse useful functions
+- Share data for easy reloading into R
+- Easily load data and functions into R
+- Document functions
+- Test functions
+
+# 
